@@ -1,0 +1,7 @@
+name: CommandCreator
+author: SchdowNVIDIA
+description: Easily create custom commands
+website: https://github.com/SchdowNVIDIA/CommandCreator
+version: 1.0.0
+api: 3.8.0
+main: SchdowNVIDIA\CommandCreator\CommandCreator
