@@ -1,0 +1,6 @@
+name: CommandCreator
+author: LBWBDev
+description: Easily create custom commands
+version: 1.2
+api: 3.8.0
+main: LBWBDev\CommandCreator\CommandCreator
