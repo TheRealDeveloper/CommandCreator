@@ -13,4 +13,4 @@ Latest: [Poggit](https://poggit.pmmp.io/ci/LBWBDeveloper/CommandCreator/CommandC
 ## All versions:
 |Version|Pocketmine|Stable|
 |-------|----------|------|
-|1.2|[Download](https://poggit.pmmp.io/r/158157/CommandCreator_dev-1.phar)| ✔|
+|1.2|[Download](https://poggit.pmmp.io/r/158157/CommandCreator_dev-1.phar)|☑️|
