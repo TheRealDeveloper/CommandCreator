@@ -1,13 +1,5 @@
 <?php
 
-/*
-    CommandCreator:
-
-    Copyright (C) 2022 LBWBDev
-    Im gonna Report all of your Servers who take this Plugin to yours!
-    CODE Edits are Allowed but no AUTHOR EDITS!
- */
-
 declare(strict_types = 1);
 
 namespace LBWBDev\CommandCreator;
